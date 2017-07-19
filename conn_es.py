@@ -13,6 +13,7 @@ import shelve
 import os
 import time
 
+
 # Define the fail message
 def zbx_fail():
     print "ZBX_NOTSUPPORTED"
